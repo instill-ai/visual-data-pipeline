@@ -1649,3 +1649,4 @@ tags:
   observability: false
   prometheusStack: false
   milvus: true
+  argoRollout: true
